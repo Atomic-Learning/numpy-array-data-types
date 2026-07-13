@@ -13,7 +13,8 @@
   "duration": 3,
   "prerequisites": [
     "numpy-arrays",
-    "programming-objects-types"
+    "programming-objects-types",
+    "python-properties"
   ],
   "related": [
     "numpy-non-c-types-and-mixed-arrays"
