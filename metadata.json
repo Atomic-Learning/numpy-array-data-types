@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Python: NumPy Array Data Types",
+  "slug": "python-numpy-array-data-types",
+  "description": "Inspect the dtype of NumPy arrays and see how NumPy coerces mixed values to a common type.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 3,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages",
+    "python-numpy-arrays"
+  ],
+  "related": [
+    "python-numpy-non-c-types-and-mixed-arrays"
+  ],
+  "python_packages": [
+    "numpy"
+  ]
 }
