@@ -54,4 +54,4 @@ array5 = np.array([1.0, -2.0])
 print(array5.dtype)
 ```
 
-These dtypes are NumPy's internal storage types rather than the usual high-level Python types. They let NumPy store and process array data efficiently.
+These dtypes are NumPy's internal storage types rather than the usual high-level Python types. These types are the C data types, which NumPy uses as they are more efficient for storage and computation than their Python counterparts. For example, `int32` is a 32-bit integer, and `float64` is a 64-bit floating-point number.
