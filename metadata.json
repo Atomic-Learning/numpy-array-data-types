@@ -1,6 +1,6 @@
 {
-  "title": "Python: NumPy Array Data Types",
-  "slug": "python-numpy-array-data-types",
+  "title": "NumPy: Array Data Types",
+  "slug": "numpy-array-data-types",
   "description": "Inspect the dtype of NumPy arrays and see how NumPy coerces mixed values to a common type.",
   "authors": [
     "chris-cooling",
