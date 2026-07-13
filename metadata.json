@@ -12,11 +12,11 @@
   ],
   "duration": 3,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages",
-    "python-numpy-arrays"
+    "numpy-arrays",
+    "programming-objects-types"
   ],
   "related": [
-    "python-numpy-non-c-types-and-mixed-arrays"
+    "numpy-non-c-types-and-mixed-arrays"
   ],
   "python_packages": [
     "numpy"
