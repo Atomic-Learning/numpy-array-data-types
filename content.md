@@ -1,6 +1,6 @@
 # Python: NumPy Array Data Types
 
-NumPy arrays are required to store values with a single common type. When you mix values of different types, NumPy converts them so the array can keep a consistent `dtype`.
+NumPy arrays are required to store values with a single common type. When you mix values of different types, NumPy converts them so all entries have the same type where possible.
 
 ```py-cell
 import numpy as np
