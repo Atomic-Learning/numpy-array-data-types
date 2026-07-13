@@ -10,7 +10,7 @@
     "python",
     "numpy"
   ],
-  "duration": 3,
+  "duration": 6,
   "prerequisites": [
     "numpy-arrays",
     "programming-objects-types",
