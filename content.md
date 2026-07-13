@@ -45,10 +45,10 @@ array2 = np.array([True, False])
 print(array2.dtype)
 
 array3 = np.array(["1", "2"])
-print(array3.dtype)
+print(array3.dtype) # A string with 1 character
 
 array4 = np.array(["1234567890", "2"])
-print(array4.dtype)
+print(array4.dtype) # A string with 10 characters
 
 array5 = np.array([1.0, -2.0])
 print(array5.dtype)
