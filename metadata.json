@@ -17,7 +17,7 @@
     "python-properties"
   ],
   "related": [
-    "numpy-non-c-types-and-mixed-arrays"
+    "numpy-object-data-type"
   ],
   "python_packages": [
     "numpy"
